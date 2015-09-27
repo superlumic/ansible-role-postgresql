@@ -1,4 +1,4 @@
-# superlumic-ppostgresql
+# superlumic-postgresql
 
 Ansible role to install and configure Postgresql on OSX. This role is part of the Superlumic project that aims to simplify repeat computer setups on OSX, 10.10 and up.
 
